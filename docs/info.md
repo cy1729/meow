@@ -13,8 +13,8 @@ a single and gate
 
 ## How to test
 
-try all combinations of two imputs
+try all combinations of two inputs
+
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 a single led
